@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost.soccer_league_multidimensional"
+  DTS:DTSID="{7A6B34AE-6A02-4C7F-8B2E-B3837313EE1A}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=localhost;Initial Catalog=soccer_league_multidimensional;Integrated Security=True;Application Name=SSIS-IntegrationServices_SoccerLeague-{7A6B34AE-6A02-4C7F-8B2E-B3837313EE1A}localhost.soccer_league_multidimensional;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
